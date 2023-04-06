@@ -1,7 +1,10 @@
 # surfever
 A sign up page for a surf trip app that never existed. 😢
 
-Made with  React / Next.js, Tailwind CSS
+https://user-images.githubusercontent.com/6500879/230473805-16c9ae37-e233-4ab6-9802-81d9bffde0aa.mov
+
+Made with React / Next.js, Tailwind CSS, and ❤️
+
 ## Getting started
 
 ```bash
