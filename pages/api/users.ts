@@ -23,7 +23,7 @@ export default function handler (req: NextApiRequest, res: NextApiResponse) {
         return res.status(200).json({message: 'Code is verified, user is created!'})
       }
 
-      return res.status(401).json({message: 'Code is invalid.'})
+      return res.status(401).json({message: 'Code is invalid. Hint: "AAAAAA"'})
     default:
       res.setHeader('Allow', ['POST'])
       return res.status(405).end(`Method ${method} Not Allowed`)
