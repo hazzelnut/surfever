@@ -18,7 +18,7 @@ npm run dev
 ## Side-notes
 This project is loosely based on a take-home interview exercise I did.
 I was tasked to build a sign up flow with a 2FA screen. New features
-were added to make the user experience better than the existing one.
+were added to make the user experience better than the existing one - these features are listed below.
 
 ### Non-happy day scenarios
 I hard-coded the backend to trigger some of the non-happy day scenarios.
