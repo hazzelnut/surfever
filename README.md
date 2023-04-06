@@ -5,7 +5,7 @@ Click here for: [[Demo]](https://surfever.vercel.app/)
 
 https://user-images.githubusercontent.com/6500879/230473805-16c9ae37-e233-4ab6-9802-81d9bffde0aa.mov
 
-Made with React / Next.js, Tailwind CSS, and ❤️
+Made with React / Next.js, Typescript, Tailwind CSS, and ❤️
 
 
 
