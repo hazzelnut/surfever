@@ -1,6 +1,7 @@
 # surfever
 A sign up page for a surf trip app that never existed. 😢
 
+Technologies: React / Next.js, Tailwind CSS
 ## Getting started
 
 ```bash
