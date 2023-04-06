@@ -31,7 +31,7 @@ General form submission
 Mobile number screen
 - Reset input button
 - Disabled submit button until input is full
-- Input opens up the numpad on the phone (Try it on your phone by accessing the local network. Mine is 10.0.0.1:3000 once your run the prod server)
+- Input opens up the numpad on the phone (Try it on your phone by accessing the local network. Mine is 10.0.0.1:3000 once your run the dev server)
 
 2FA screen
 - 2FA input auto-submits
