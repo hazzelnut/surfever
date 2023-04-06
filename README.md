@@ -1,7 +1,6 @@
 # surfever
 A sign up page for a surf trip app that never existed. 😢
 
-=======
 ## Getting started
 
 ```bash
@@ -9,13 +8,13 @@ npm install
 
 # Build the next.js files
 # Start local server at http://localhost:3000
-npm run prod
+npm run dev 
 ```
 
 ## Side-notes
-This project is loosely-based on a take-home interview exercise.
-I was tasked to build a login flow with a 2FA screen. And add features
-that would make the user experience better than the existing one.
+This project is loosely based on a take-home interview exercise I did.
+I was tasked to build a sign up flow with a 2FA screen. New features
+are added to make the user experience better than the existing one.
 
 ### Non-happy day scenarios
 I hard-coded the backend to trigger some of the non-happy day scenarios.
