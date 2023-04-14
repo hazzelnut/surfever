@@ -1,6 +1,8 @@
 # surfever
 A sign up page for a surf trip app that never existed. 😢
 
+**Also, you don't receive any 2FA code. The backend is mocked. When you get to the 2FA page, type in 'AAAAAA'.**
+
 Click here for: [[Demo]](https://surfever.vercel.app/)
 
 https://user-images.githubusercontent.com/6500879/230473805-16c9ae37-e233-4ab6-9802-81d9bffde0aa.mov
