@@ -102,7 +102,7 @@ export default function TwoFactorForm(props: TwoFactorFormProps) {
         }
         {!error &&
           <p className="absolute -bottom-7 w-full text-yellow-700 truncate">
-            Type 'AAAAAA'
+            Type &apos;AAAAAA&apos;
           </p>
         }
       </div>
