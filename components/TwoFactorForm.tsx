@@ -100,6 +100,11 @@ export default function TwoFactorForm(props: TwoFactorFormProps) {
             &#9888; {error}
           </p>
         }
+        {!error &&
+          <p className="absolute -bottom-7 w-full text-yellow-700 truncate">
+            Type 'AAAAAA'
+          </p>
+        }
       </div>
       <p
         className="mt-10 hover:cursor-pointer opacity-50 hover:opacity-100 underline underline-offset-2"
