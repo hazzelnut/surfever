@@ -31,7 +31,7 @@ I hard-coded the backend to trigger some of the non-happy day scenarios.
 
 Non happy day scenario triggers:
 - Number already input -> enter ‘123-123-1234’
-- Invalid 2FA code -> enter ‘AAAAAA’
+- Invalid 2FA code -> enter any 6 letter code but 'AAAAAA'
 
 ### Features (Mostly for Accessbility)
 
